@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573009871104",
+    "project_id": "makeover-4d5d5",
+    "storage_bucket": "makeover-4d5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573009871104:android:bd1c3e462d117482e2b3e5",
+        "android_client_info": {
+          "package_name": "com.makeoverplaceproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_Cl49XMLoSi8jsEmbweWTkg4kHNUFSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
